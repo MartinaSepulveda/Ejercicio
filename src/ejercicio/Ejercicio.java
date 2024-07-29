@@ -5,7 +5,10 @@
 package ejercicio;
 
 import java.util.Scanner;
-
+/*amtriana62: utilice otras clases, el main solo llame a los métodos, cuando se requiera
+de otras clases se importan nombreProyecto.nombreClase*/
+/*Encapsule los datos con get y set*/
+/*También pensemos en los usuarios, si quieren volver a comprar usar un ciclo como while*/
 /**
  *
  * @author Usuario
